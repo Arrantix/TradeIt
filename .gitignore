@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+*.db-journal
+*.db-wal
+*.db-shm
