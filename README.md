@@ -8,7 +8,7 @@ Ein früher Unterrichtsprototyp zum Durchsuchen eines lokalen Pokémon-Kartenkat
 python app.py
 ```
 
-Benötigt Python 3.10+ mit Tkinter; weitere Pakete sind nicht nötig. Die Oberfläche liest `pokemon_base_set.db` ausschließlich im Lesemodus. Die Datenbank mit 102 Karten wurde **bytegenau unverändert** aus dem Unterrichtsprojekt übernommen. Es werden keine persönlichen Nutzerinformationen gespeichert.
+Benötigt Python 3.10+ mit Tkinter; weitere Pakete sind nicht nötig. Oberfläche und Suche wurden für dieses Repo aus dem Unterrichtsprototyp neu aufbereitet. Die Oberfläche liest `pokemon_base_set.db` ausschließlich im Lesemodus. Die Datenbank mit 102 Karten wurde **bytegenau unverändert** aus dem Unterrichtsprojekt übernommen. Es werden keine persönlichen Nutzerinformationen gespeichert.
 
 Die größere `cardmarket.db` und ihre CSV-Quelle waren im vorhandenen Oberflächen-Prototyp nicht eingebunden und gehören nicht zu dieser kuratierten Fassung.
 
